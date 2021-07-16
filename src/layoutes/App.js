@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, NavLink, Switch } from "react-router-dom";
+import { BrowserRouter as Router } from "react-router-dom";
 import "../styles/App.css";
 
 import Header from "./Header";
@@ -11,7 +11,7 @@ class app extends Component {
   state = {};
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div className="app">
           <header>
             <Header />
