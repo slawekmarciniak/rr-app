@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rr-app/static/css/main.03b28642.chunk.css",
+    "main.js": "/rr-app/static/js/main.2fff6fc2.chunk.js",
+    "main.js.map": "/rr-app/static/js/main.2fff6fc2.chunk.js.map",
+    "runtime-main.js": "/rr-app/static/js/runtime-main.ac751118.js",
+    "runtime-main.js.map": "/rr-app/static/js/runtime-main.ac751118.js.map",
+    "static/js/2.4716caf9.chunk.js": "/rr-app/static/js/2.4716caf9.chunk.js",
+    "static/js/2.4716caf9.chunk.js.map": "/rr-app/static/js/2.4716caf9.chunk.js.map",
+    "index.html": "/rr-app/index.html",
+    "static/css/main.03b28642.chunk.css.map": "/rr-app/static/css/main.03b28642.chunk.css.map",
+    "static/js/2.4716caf9.chunk.js.LICENSE.txt": "/rr-app/static/js/2.4716caf9.chunk.js.LICENSE.txt",
+    "static/media/header1.e210d623.jpg": "/rr-app/static/media/header1.e210d623.jpg",
+    "static/media/header2.26d6661b.jpg": "/rr-app/static/media/header2.26d6661b.jpg",
+    "static/media/header3.1b8172a4.jpg": "/rr-app/static/media/header3.1b8172a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac751118.js",
+    "static/js/2.4716caf9.chunk.js",
+    "static/css/main.03b28642.chunk.css",
+    "static/js/main.2fff6fc2.chunk.js"
+  ]
+}
